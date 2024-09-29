@@ -6,11 +6,11 @@ This repository aims to enhance understanding of quantitative finance by combini
 
 ## Contents
 
-* Probability, Random Variables, Expectation and Convergence.
-* Parametric Inference, Hypothesis Testing, Bayesian Inference, Linear Regression, Logistic Regression.
-* ARMA Models, SARIMA Models, GARCH Models.
-* Log Returns, Geometric Brownian Motion, Itô-Doeblin Formula, Black-Scholes-Merton Model, Option Greeks.
-* Stochastic Differential Equations, Jump Processes, Exotic Options, American Options.
+1. Probability, Random Variables, Expectation and Convergence.
+2. Parametric Inference, Hypothesis Testing, Bayesian Inference, Linear Regression, Logistic Regression.
+3. ARMA Models, SARIMA Models, GARCH Models.
+4. Log Returns, Geometric Brownian Motion, Itô-Doeblin Formula, Black-Scholes-Merton Model, Option Greeks.
+5. Stochastic Differential Equations, Jump Processes, Exotic Options, American Options.
 
 ## References
 
