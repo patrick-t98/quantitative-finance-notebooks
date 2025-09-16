@@ -2,11 +2,11 @@
 
 ## A collection of educational notebooks covering key mathematical concepts and their applications in quantitative finance.
 
-This repository aims to enhance understanding of quantitative finance by combining mathematical theory with coding examples in Python. Prerequisites include a basic knowledge in statistics, stochastic calculus, financial derivatives terminology, and Python programming. This repository is made possible thanks to some excellent academic textbooks and GitHub repositories, which can be found below. Hopefully, readers will feel they have a firmer grasp of the topics and find inspiration for practical applications!
+This repository aims to enhance understanding of quantitative finance by combining mathematical theory with coding examples in Python. Prerequisites include a basic knowledge in statistics, stochastic calculus, financial derivatives terminology, and Python programming. This repository is made possible thanks to some excellent academic textbooks, GitHub repositories and YouTube videos, which can be found below. Hopefully, readers will feel they have a firmer grasp of the topics and find inspiration for practical applications!
 
 ## Contents
 
-1. Probability, Random Variables, Expectation and Convergence.
+1. Set Theory and Probability, Random Variables, Expectation and Convergence.
 2. Parametric Inference, Hypothesis Testing, Bayesian Inference, Linear Regression, Logistic Regression.
 3. ARMA Models, SARIMA Models, GARCH Models.
 4. Log Returns, Geometric Brownian Motion, Itô-Doeblin Formula, Black-Scholes-Merton Model, Option Greeks.
@@ -24,3 +24,6 @@ This repository aims to enhance understanding of quantitative finance by combini
 * Cantarutti, N. (2019). Financial Models Numerical Methods [Computer software]. https://github.com/cantaro86/Financial-Models-Numerical-Methods
 * Reid, M. (2020). Reliability [Computer software]. https://github.com/MatthewReid854/reliability
 * Roland, A. (2021). Statistics and Probability For Data Science [Computer software]. https://github.com/CodeRabbitHub/Statistics-and-Probability-For-Data-Science
+
+### YouTube Videos
+* Wood, W. (2021). Set Theory | All-in-One Video. https://www.youtube.com/watch?v=5ZhNmKb-dqk
