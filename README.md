@@ -15,6 +15,7 @@ This repository aims to enhance understanding of quantitative finance by combini
 ## References
 
 ### Textbooks
+* Baxter, M., and Rennie, A. (1996). Financial Calculus: An Introduction to Derivative Pricing. 
 * Huang, C., and  Petukhina, A. (2022). Applied Time Series Analysis and Forecasting with Python.
 * Natenberg, S. (1994). Optional Volatility and Pricing: Advanced Trading Strategies and Techniques.
 * Shreve, S. (2008). Stochastic Calculus for Finance II Continuous-Time Models.
